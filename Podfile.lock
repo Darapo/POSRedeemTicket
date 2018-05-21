@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - BulletinBoard (1.3.0)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BulletinBoard
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - BulletinBoard
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  BulletinBoard: 23c9d98cac654fd484d76f2a0655669974e9bd9c
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 2e9493a001ade95d0a9db2fe94b9a7745993f3a7
+
+COCOAPODS: 1.5.0
